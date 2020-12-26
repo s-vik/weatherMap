@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/weatherMap/static/css/main.3446424a.chunk.css",
-    "main.js": "/weatherMap/static/js/main.896fa127.chunk.js",
-    "main.js.map": "/weatherMap/static/js/main.896fa127.chunk.js.map",
+    "main.css": "/weatherMap/static/css/main.21b1b10a.chunk.css",
+    "main.js": "/weatherMap/static/js/main.8f81eec7.chunk.js",
+    "main.js.map": "/weatherMap/static/js/main.8f81eec7.chunk.js.map",
     "runtime-main.js": "/weatherMap/static/js/runtime-main.62659e13.js",
     "runtime-main.js.map": "/weatherMap/static/js/runtime-main.62659e13.js.map",
     "static/css/2.1a02f21c.chunk.css": "/weatherMap/static/css/2.1a02f21c.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.3335f16a.chunk.js.map": "/weatherMap/static/js/2.3335f16a.chunk.js.map",
     "index.html": "/weatherMap/index.html",
     "static/css/2.1a02f21c.chunk.css.map": "/weatherMap/static/css/2.1a02f21c.chunk.css.map",
-    "static/css/main.3446424a.chunk.css.map": "/weatherMap/static/css/main.3446424a.chunk.css.map",
+    "static/css/main.21b1b10a.chunk.css.map": "/weatherMap/static/css/main.21b1b10a.chunk.css.map",
     "static/js/2.3335f16a.chunk.js.LICENSE.txt": "/weatherMap/static/js/2.3335f16a.chunk.js.LICENSE.txt",
     "static/media/preloader.9bb0fb74.svg": "/weatherMap/static/media/preloader.9bb0fb74.svg"
   },
@@ -18,7 +18,7 @@
     "static/js/runtime-main.62659e13.js",
     "static/css/2.1a02f21c.chunk.css",
     "static/js/2.3335f16a.chunk.js",
-    "static/css/main.3446424a.chunk.css",
-    "static/js/main.896fa127.chunk.js"
+    "static/css/main.21b1b10a.chunk.css",
+    "static/js/main.8f81eec7.chunk.js"
   ]
 }
